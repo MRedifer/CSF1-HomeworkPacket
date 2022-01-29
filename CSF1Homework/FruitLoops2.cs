@@ -27,10 +27,10 @@ namespace CSF1Homework
 
             for (int i = 0; i < fruitLoops.Length; i++)
             {
+                
+                Console.WriteLine(fruitLoops[i] + "\n" + periods);
                 periods += ".";
-                Console.WriteLine(fruitLoops[i] + periods);
-                
-                
+
             }
 
             
