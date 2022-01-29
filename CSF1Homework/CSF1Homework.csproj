@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSF1Homework.TempConversion</StartupObject>
+    <StartupObject>CSF1Homework.LoginApp</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="FruitLoops1.cs" />
     <Compile Include="FruitLoops2.cs" />
+    <Compile Include="LoginApp.cs" />
     <Compile Include="MadLibs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TempConversion.cs" />
