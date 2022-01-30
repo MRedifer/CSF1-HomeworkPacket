@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ATM.cs" />
     <Compile Include="FruitLoops1.cs" />
     <Compile Include="FruitLoops2.cs" />
     <Compile Include="LoginApp.cs" />
